@@ -1,0 +1,18 @@
+{
+  "name": "mindstyler.unitynullableenable",
+  "displayName": "UnityNullableEnable",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Adds a file processor to enable Nullable Reference Types project wide.",
+  "author": {
+    "name": "Mindstyler",
+    "url": "https://github.com/Mindstyler"
+  },
+  "hideInEditor": false,
+  "keywords": [
+    "Nullable",
+    "Reference",
+    "Types"
+  ],
+  "license": "See LICENCE file"
+}
