@@ -1,3 +1,6 @@
+/// Copyright 2022 https://github.com/Mindstyler All Rights Reserved.
+/// Licenced under MIT
+
 #nullable enable
 
 using System.IO;
